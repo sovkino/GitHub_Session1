@@ -1,7 +1,7 @@
 package CursoGIT;
 
 public class CrapSquared {
-
+	//probando
 	public int FakeSquare (int p_Factor)
 	{
 	int l_Retorno = 0;
